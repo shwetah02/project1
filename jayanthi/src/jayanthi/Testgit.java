@@ -11,6 +11,7 @@ s.push("a");
 s.push("ac");
 s.push("af");
 s.push("ad");
+s.push("sav");
 s.push("sa");
 System.out.println(s);
 	}
